@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:id="@+id/foto"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="30dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:background="@drawable/me"
+            android:contentDescription="@string/foto_profil" />
+
+        <TextView
+            android:id="@+id/tv_nim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nim"
+            android:layout_marginStart="25dp"
+            android:layout_gravity="start"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/tv_nama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nama"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="25dp"
+            android:layout_gravity="start"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/tv_kelas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kelas"
+            android:layout_gravity="start"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="25dp"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ragam Wisata Bandung</string>
+    <string name="info">Info Aplikasi</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="lokasi">Lokasi Wisata</string>
+    <string name="info_aplikasi">info aplikasi</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="image_location">image location</string>
+    <string name="title_location">title location</string>
+    <string name="kembali">Kembali</string>
+    <string name="google_maps">google maps</string>
+    <string name="wisata_bandung">Ragam Wisata Bandung</string>
+    <string name="foto_profil">foto profil</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="nim">NIM</string>
+    <string name="image">image</string>
+    <string name="menu_wisata">Menu <b>Lokasi Wisata</b> menampilkan sejumlah lokasi wisata yang ada di Bandung</string>
+    <string name="menu_profile">Menu <b>Profile Wisata</b> menampilkan informasi wisata yang ada di Bandung</string>
+</resources>

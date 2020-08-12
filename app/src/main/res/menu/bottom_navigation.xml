@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_location"
+        android:title="@string/lokasi"/>
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/people"
+        android:title="@string/about_me"/>
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/info"
+        android:title="@string/info"/>
+</menu>
